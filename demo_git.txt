@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hii.. this is demo file from dev 2.
-=======
 Hello this is demo 1.
->>>>>>> 52a44f9ec1fdaf7b77c9a1630443210168ad22fe
